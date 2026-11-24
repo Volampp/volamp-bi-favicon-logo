@@ -1,2 +1,2 @@
 # volamp-bi-favicon-logo
-logo.png2673
+logo256.png
